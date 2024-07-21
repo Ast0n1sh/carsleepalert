@@ -1,4 +1,4 @@
-## File Splitter and Reassembler
+## File Splitter & Reassembler and Repository Structure
 
 This repository contains tools for splitting large files into smaller parts and reassembling them back into the original file. This is particularly useful for uploading large model files to GitHub, which has a file size limit of 25 MB.
 
@@ -15,3 +15,5 @@ GitHub imposes a limit on the size of files that can be uploaded to a repository
   - `File Splitter & Reassembler.py` : Script and GUI for splitting files and reassembling files.
 
   - `Car Sleep Alert.py` : The project source code
+
+Note: Since model is already splitted just use the code block 2 of "File Splitter & Reassembler.py" for reassembling the splitted files. A GUI should open after executing the code then Select the folder which contains the splitted model files and choose the path and name to save it into single file.
