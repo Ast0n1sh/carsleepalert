@@ -14,7 +14,7 @@ GitHub imposes a limit on the size of files that can be uploaded to a repository
 - `src/` : Contains all source code, including scripts for training, testing, and the GUI implementation.
   - `File Splitter & Reassembler.py` : Script and GUI for splitting files and reassembling files.
 
-  - `Car Sleep Alert.py`
+  - `Car Sleep Alert.py` : The project source code
 ### How to Use Split and Reassemble. Note: Here you just need to use ressembler code to join file, ignore splitter code block
 
 #### Splitting a File
